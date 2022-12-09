@@ -3,15 +3,27 @@
 Projeto feito no junto com o DEVSUPERIOR na intenção de fazer quem está no pontapé inicial da programação ampliar a sua visão
 ----------------------------------------------------------------------------------------------------------------------------
 Foi usado:
-YARN +
-REACT +
+
+YARN 
+
+REACT 
+
 TS
 
 IDE's:
 
-INTELLIJ - JAVA
+INTELLIJ
 
-VISUAL STUDIO CODE - HTML5, CSS3 E JAVASCRIPT
+VISUAL STUDIO CODE - HTML5 e CSS3
+
+LINGUAGENS:
+
+JAVA
+
+JAVASCRIPT
+
+JASON EXTERNO
+
 
 ----------------------------------------------------------------------------------------------------------------
 TELA PRINCIPAL
