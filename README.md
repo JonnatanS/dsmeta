@@ -1,6 +1,6 @@
 # dsmeta
 ---------------------------------------------------------------------------------------------------------------------------
-Projeto feito no junto com o DEVSUPERIOR na intenção de fazer quem está no pontapé inicial da programação ampliar sua visão
+Projeto feito no junto com o DEVSUPERIOR na intenção de fazer quem está no pontapé inicial da programação ampliar a sua visão
 ----------------------------------------------------------------------------------------------------------------------------
 Foi usado:
 YARN +
